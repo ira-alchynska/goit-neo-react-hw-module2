@@ -1,0 +1,20 @@
+.head {
+    text-align: center;
+}
+
+.title {
+    font-size: 44px;
+    margin-bottom: 2rem;
+    color: #3a382b;
+}
+
+.title span {
+    font-size: 44px;
+    margin-bottom: 2rem;
+    color: #3f1d31;
+}
+
+.text {
+    font-size: 24px;
+    color: #3a382b;
+}
