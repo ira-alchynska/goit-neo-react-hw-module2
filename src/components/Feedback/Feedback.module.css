@@ -1,0 +1,9 @@
+.statistics {
+    margin: 1rem 0;
+    text-align: left;
+}
+
+.statistics p {
+    font-size: 1.2rem;
+    margin: 0.3rem 0;
+}
